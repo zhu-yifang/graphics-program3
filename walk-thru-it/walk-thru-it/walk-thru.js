@@ -326,15 +326,16 @@ class SceneCamera {
 	// I am calculating by the solution way 
 	// pPrime is P', origin is O in the solution
 		let depth = (aPoint.minus(this.center)).dot(this.into);
-		let pPrime = this.center.plus(aPoint.minus(this.center)/depth);
+		let pPrime = this.center.plus(aPoint.minus(this.center).times(1/depth));
 		let origin = this.center.plus(this.into);
 		let y = pPrime.minus(origin).dot(this.right);
 		let z = pPrime.minus(origin).dot(this.up);
+
         const result = {
-	    point: aPoint,
-	    projection: new Point2d(y, z),
-	    distance: depth
-	};
+		    point: aPoint,
+		    projection: new Point2d(y, z),
+		    distance: depth
+		};
 	
 	return result;
     }
