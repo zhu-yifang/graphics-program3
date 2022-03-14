@@ -299,11 +299,15 @@ class SceneCamera {
 	// Constructs a left-handed orthonormal frame for projection.
 	//
 	this.center = center;
+	// into = e3
 	this.into   = towards.unit();
 	//
 	// TO-DO: Fix this!
-	this.right  = null;             
-	this.up     = null; 
+	// I am using the method in the solution
+	// right = e1
+	// up = e2
+	this.right  = this.into.cross(upward.unit());             
+	this.up     = this.right.cross(this.into); 
     }
 
     project(aPoint) {
@@ -318,11 +322,18 @@ class SceneCamera {
 	//    projection onto the x=0 left wall. **
 	
 	
-	// Compute a 2D projected point and its depth. 
+	// Compute a 2D projected point and its depth.
+	// I am calculating by the solution way 
+	// pPrime is P', origin is O in the solution
+		let depth = (aPoint.minus(this.center)).dot(this.into);
+		let pPrime = this.center.plus(aPoint.minus(this.center)/depth);
+		let origin = this.center.plus(this.into);
+		let y = pPrime.minus(origin).dot(this.right);
+		let z = pPrime.minus(origin).dot(this.up);
         const result = {
 	    point: aPoint,
-	    projection: new Point2d(aPoint.y, aPoint.z),
-	    distance: aPoint.x
+	    projection: new Point2d(y, z),
+	    distance: depth
 	};
 	
 	return result;
