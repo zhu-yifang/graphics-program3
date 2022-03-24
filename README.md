@@ -7,3 +7,11 @@ modify the toPDF functionality
 
 This coding can be done fully within the file walk-thru.js.
 
+I am just using the notation in the solution.
+
+Step1 is working
+
+Step2 is working
+
+Step3 is working
+
