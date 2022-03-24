@@ -241,11 +241,15 @@ class WalkThru {
 	    // For now, one page per shot.
 	    startNewPage(document);
 
+	    // get the edges of all the objects in this camera shot, save them into edges
+	    let edges = [];
+	    let intersections = [];
 	    // Compute projected vertex information and draw the lines of
 	    // each edge.
 	    for (let object of objects) {
 
-		// Project the vertices of this object.
+		// Project the vertices of this object. 
+		// pvs is a Map, Key is a vertex, Value is a result struct
 		let pvs = object.projectVertices(camera);
 
 		// Draw each edge, projected, within the PDF.
@@ -259,10 +263,14 @@ class WalkThru {
 		    const pp0 = pvs.get(v0).projection;
 		    const pp1 = pvs.get(v1).projection;
 		    //
+		    // Save the edges information into edges
+		    edges.push([pp0,pp1]);
+		    //
 		    // Locate each on the page.
 		    const p0 = toPDFcoords(pp0);
 		    const p1 = toPDFcoords(pp1);
-		    //
+
+
 		    // Draw blue-green dots and a line for the edge.
 		    document.setFillColor(0, 96, 128);
 		    document.circle(p0.x, p0.y, 0.35, "F");
@@ -273,6 +281,47 @@ class WalkThru {
 		    document.line(p0.x, p0.y, p1.x, p1.y);
 		}
 	    }
+	    //console.log(edges);
+	    // Do the calculation by the method in the solution
+	    // I am using the notations in the solution, ie P1, P2, Q1, Q2, O, I, v, t
+	    // traverse all edges
+	    for (let i = 0; i < edges.length - 1; i++) {
+	    	for (let j = i + 1; j < edges.length; j++){
+	    		// find if edge0 intersects edge1
+	    		const edge0 = edges[i];
+	    		const edge1 = edges[j];
+	    		const P1 = edge0[0];
+	    		const P2 = edge0[1];
+	    		const Q1 = edge1[0];
+	    		const Q2 = edge1[1];
+	    		const O = P1;
+	    		const u = P2.minus(P1).unit();
+	    		const v = u.perp().neg();
+	    		const x_1 = Q1.minus(O).dot(u);
+	    		const y_1 = Q1.minus(O).dot(v);
+	    		const x_2 = Q2.minus(O).dot(u);
+	    		const y_2 = Q2.minus(O).dot(v);
+
+	    		if (y_1 * y_2 < 0) {
+	    			const alpha = Math.abs(y_1) / (Math.abs(y_1) + Math.abs(y_2));
+	    			//console.log(`alpha = : ${alpha}`)
+	    			let I = Q1.combo(alpha, Q2);
+	    			// let beta = (I.minus(P1).norm()) / P2.minus(P1).norm();
+	    			const beta = I.minus(P1).dot(u) / (P2.minus(P1)).norm();
+	    			if (beta > EPSILON && beta < 1 - EPSILON) {
+	    				console.log(`beta = : ${beta}`)
+	    				intersections.push(I);
+	    				// locate the intersection on page
+	    				const pI = toPDFcoords(I);
+	    				document.setFillColor(255, 0, 0);
+	    				document.circle(pI.x, pI.y, 0.35, "F");
+	    			}
+	    		}
+
+
+	    	}
+	    }
+	    console.log(intersections);
 	}			
     }
 }		
@@ -306,8 +355,8 @@ class SceneCamera {
 	// I am using the method in the solution
 	// right = e1
 	// up = e2
-	this.right  = this.into.cross(upward.unit());             
-	this.up     = this.right.cross(this.into); 
+	this.right  = this.into.cross(upward).unit();             
+	this.up     = this.right.cross(this.into).unit(); 
     }
 
     project(aPoint) {
@@ -366,7 +415,7 @@ class SceneObject extends CGObject {
     projectVertices(camera) {
 	const vertexInfo = new Map();
 	for (let v of this.allVertices()) {
-            const projection = camera.project(v.position);
+        const projection = camera.project(v.position);
 	    vertexInfo.set(v,projection);
 	}
 	return vertexInfo;

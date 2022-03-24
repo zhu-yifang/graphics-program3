@@ -1,0 +1,1555 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Epsi",
+				"EPSILON"
+			],
+			[
+				"Q",
+				"Q1"
+			],
+			[
+				"edge",
+				"edge1"
+			],
+			[
+				"trans",
+				"glTranslatef"
+			],
+			[
+				"ankl",
+				"ankleAngle"
+			],
+			[
+				"kn",
+				"kneeAngle"
+			],
+			[
+				"make",
+				"makeTriangle"
+			],
+			[
+				"draw",
+				"drawSTRI"
+			],
+			[
+				"glbe",
+				"glBegin"
+			],
+			[
+				"bir",
+				"BIRD"
+			],
+			[
+				"p0",
+				"p0_z"
+			],
+			[
+				"gl",
+				"glColor3f"
+			],
+			[
+				"radi",
+				"radius1"
+			],
+			[
+				"radius",
+				"radius1"
+			],
+			[
+				"radu",
+				"radius0"
+			],
+			[
+				"num",
+				"numPhi"
+			],
+			[
+				"point",
+				"point3"
+			],
+			[
+				"dra",
+				"drawBowl"
+			],
+			[
+				"poin",
+				"point0"
+			],
+			[
+				"poi",
+				"point"
+			],
+			[
+				"radis",
+				"radius1"
+			],
+			[
+				"center1",
+				"center1_z"
+			],
+			[
+				"center0_",
+				"center0_z"
+			],
+			[
+				"center0",
+				"center0_y"
+			],
+			[
+				"nump",
+				"numPoints"
+			],
+			[
+				"p2",
+				"p2_z"
+			],
+			[
+				"p1",
+				"p1_y"
+			],
+			[
+				"mer",
+				"mergeSort"
+			],
+			[
+				"array",
+				"array2"
+			],
+			[
+				"arra",
+				"array2"
+			],
+			[
+				"g",
+				"getter"
+			],
+			[
+				"ve",
+				"Vehicle"
+			],
+			[
+				"di",
+				"distanceTo"
+			],
+			[
+				"digi",
+				"DigitNode"
+			],
+			[
+				"digit",
+				"DigitNode"
+			],
+			[
+				"Digit",
+				"DigitNode"
+			],
+			[
+				"inc",
+				"increment"
+			],
+			[
+				"Di",
+				"DigitSequence"
+			],
+			[
+				"Que",
+				"QueryMaker"
+			],
+			[
+				"csci",
+				"csci378"
+			],
+			[
+				"turn",
+				"turnCCW"
+			],
+			[
+				"tur",
+				"turnCW"
+			],
+			[
+				"with",
+				"withOne"
+			],
+			[
+				"wiht",
+				"withOne"
+			],
+			[
+				"prin",
+				"print_all"
+			],
+			[
+				"new",
+				"newCurr"
+			],
+			[
+				"bu",
+				"bucketLines"
+			],
+			[
+				"li",
+				"listHasPairSum"
+			],
+			[
+				"in",
+				"increaseBy"
+			],
+			[
+				"ll",
+				"llist2"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"delet",
+				"delete1"
+			],
+			[
+				"delete",
+				"delete2"
+			],
+			[
+				"min",
+				"minNodeParent"
+			],
+			[
+				"dele",
+				"delete0"
+			],
+			[
+				"to",
+				"toListHelper"
+			],
+			[
+				"grand",
+				"greatgrandparent"
+			],
+			[
+				"righ",
+				"rightRotation"
+			],
+			[
+				"de",
+				"deleteHelper"
+			],
+			[
+				"deele",
+				"deleteHelper"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"count",
+				"countingSort"
+			],
+			[
+				"func",
+				"function_to_be_used"
+			],
+			[
+				"max",
+				"maxCrossing"
+			],
+			[
+				"main",
+				"ifmain"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"test",
+				"testQuickSort"
+			],
+			[
+				"cou",
+				"countingSort"
+			],
+			[
+				"meg",
+				"mergedRight"
+			],
+			[
+				"mege",
+				"merge"
+			],
+			[
+				"merge",
+				"mergedRight"
+			],
+			[
+				"do",
+				"doLeft"
+			],
+			[
+				"lef",
+				"leftIndex"
+			],
+			[
+				"ri",
+				"rightIndex"
+			],
+			[
+				"merg",
+				"mergedRight"
+			],
+			[
+				"merged",
+				"mergedLeft"
+			],
+			[
+				"list",
+				"listA"
+			],
+			[
+				"a",
+				"aSpot"
+			],
+			[
+				"res",
+				"response_body"
+			],
+			[
+				"respon",
+				"response_line"
+			],
+			[
+				"respons",
+				"response_data"
+			],
+			[
+				"set",
+				"setsockopt"
+			],
+			[
+				"socket",
+				"socketClient"
+			],
+			[
+				"sock",
+				"socketClient"
+			],
+			[
+				"so",
+				"socketClient"
+			],
+			[
+				"SOCK_S",
+				"SOCK_STREAM"
+			],
+			[
+				"clien",
+				"clientSocket"
+			],
+			[
+				"client",
+				"client_data"
+			],
+			[
+				"my",
+				"my_sum_num1"
+			],
+			[
+				"sum",
+				"sum_num2"
+			],
+			[
+				"sum_",
+				"sum_num1"
+			],
+			[
+				"sub",
+				"sub_read"
+			],
+			[
+				"if",
+				"ifmain"
+			],
+			[
+				"pre",
+				"allPrereqs"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"wit",
+				"withZero"
+			],
+			[
+				"hi",
+				"hiredate"
+			],
+			[
+				"r",
+				"row_coins"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"Y",
+				"Y_Left"
+			],
+			[
+				"clo",
+				"closest_pair"
+			],
+			[
+				"close",
+				"closest_pair"
+			],
+			[
+				"countL",
+				"countLRA"
+			],
+			[
+				"last",
+				"lastParent"
+			],
+			[
+				"right",
+				"rightChildIndex"
+			],
+			[
+				"left",
+				"leftChildIndex"
+			],
+			[
+				"la",
+				"lastParentIndex"
+			],
+			[
+				"leftChi",
+				"leftChildIndex"
+			],
+			[
+				"heap",
+				"heapifyDown"
+			],
+			[
+				"index",
+				"indexTwo"
+			],
+			[
+				"inde",
+				"indexTwo"
+			],
+			[
+				"p",
+				"printSomething"
+			],
+			[
+				"fib",
+				"fib_rec"
+			],
+			[
+				"em",
+				"employees"
+			],
+			[
+				"emp",
+				"employees"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"e",
+				"emp_1"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"se",
+				"sequence"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"cl",
+				"clientSocket"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"c",
+				"connectionSocket"
+			],
+			[
+				"ser",
+				"serverSocket"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "walk-thru-it.sublime-project",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "walk-thru-it/walk-thru-it/walk-thru.js",
+			"settings":
+			{
+				"buffer_size": 12251,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					71,
+					3,
+					"left_delete",
+					null,
+					"JwAAAFAiAAAAAAAAUCIAAAAAAAABAAAAdCsiAAAAAAAAKyIAAAAAAAABAAAAdAYiAAAAAAAABiIAAAAAAAABAAAAdOEhAAAAAAAA4SEAAAAAAAABAAAAdMIhAAAAAAAAwiEAAAAAAAABAAAAdJ4hAAAAAAAAniEAAAAAAAABAAAAdIshAAAAAAAAiyEAAAAAAAABAAAAdHEhAAAAAAAAcSEAAAAAAAABAAAAdFchAAAAAAAAVyEAAAAAAAABAAAAdD0hAAAAAAAAPSEAAAAAAAABAAAAdCMhAAAAAAAAIyEAAAAAAAABAAAAdAYhAAAAAAAABiEAAAAAAAABAAAAdOkgAAAAAAAA6SAAAAAAAAABAAAAdEMiAAAAAAAAQyIAAAAAAAABAAAAZR8iAAAAAAAAHyIAAAAAAAABAAAAZfshAAAAAAAA+yEAAAAAAAABAAAAZdchAAAAAAAA1yEAAAAAAAABAAAAZbkhAAAAAAAAuSEAAAAAAAABAAAAZZYhAAAAAAAAliEAAAAAAAABAAAAZYQhAAAAAAAAhCEAAAAAAAABAAAAZWshAAAAAAAAayEAAAAAAAABAAAAZVIhAAAAAAAAUiEAAAAAAAABAAAAZTkhAAAAAAAAOSEAAAAAAAABAAAAZSAhAAAAAAAAICEAAAAAAAABAAAAZQQhAAAAAAAABCEAAAAAAAABAAAAZeggAAAAAAAA6CAAAAAAAAABAAAAZTYiAAAAAAAANiIAAAAAAAABAAAAbBMiAAAAAAAAEyIAAAAAAAABAAAAbPAhAAAAAAAA8CEAAAAAAAABAAAAbM0hAAAAAAAAzSEAAAAAAAABAAAAbLAhAAAAAAAAsCEAAAAAAAABAAAAbI4hAAAAAAAAjiEAAAAAAAABAAAAbH0hAAAAAAAAfSEAAAAAAAABAAAAbGUhAAAAAAAAZSEAAAAAAAABAAAAbE0hAAAAAAAATSEAAAAAAAABAAAAbDUhAAAAAAAANSEAAAAAAAABAAAAbB0hAAAAAAAAHSEAAAAAAAABAAAAbAIhAAAAAAAAAiEAAAAAAAABAAAAbOcgAAAAAAAA5yAAAAAAAAABAAAAbA",
+					"AQAAAAAAAAANAAAA6iAAAAAAAADqIAAAAAAAAAAAAAAAAPC/ByEAAAAAAAAHIQAAAAAAAAAAAAAAAPC/JCEAAAAAAAAkIQAAAAAAAAAAAAAAAPC/PiEAAAAAAAA+IQAAAAAAAAAAAAAAAPC/WCEAAAAAAABYIQAAAAAAAAAAAAAAAPC/ciEAAAAAAAByIQAAAAAAAAAAAAAAAPC/jCEAAAAAAACMIQAAAAAAAAAAAAAAAPC/nyEAAAAAAACfIQAAAAAAAAAAAAAAAPC/wyEAAAAAAADDIQAAAAAAAAAAAAAAAPC/4iEAAAAAAADiIQAAAAAAAAAAAAAAAPC/ByIAAAAAAAAHIgAAAAAAAAAAAAAAAPC/LCIAAAAAAAAsIgAAAAAAAAAAAAAAAPC/USIAAAAAAABRIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "const"
+					},
+					"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"
+				],
+				[
+					109,
+					2,
+					"left_delete",
+					null,
+					"AgAAAK0iAAAAAAAArSIAAAAAAAABAAAAdKwiAAAAAAAArCIAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAriIAAAAAAACuIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAKwiAAAAAAAArSIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArCIAAAAAAACsIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					2,
+					"left_delete",
+					null,
+					"AgAAAKwiAAAAAAAArCIAAAAAAAABAAAAY6siAAAAAAAAqyIAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAArSIAAAAAAACtIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "const"
+					},
+					"BQAAAKsiAAAAAAAArCIAAAAAAAAAAAAArCIAAAAAAACtIgAAAAAAAAAAAACtIgAAAAAAAK4iAAAAAAAAAAAAAK4iAAAAAAAAryIAAAAAAAAAAAAAryIAAAAAAACwIgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqyIAAAAAAACrIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					4,
+					"left_delete",
+					null,
+					"BAAAAIUjAAAAAAAAhSMAAAAAAAABAAAAdIQjAAAAAAAAhCMAAAAAAAABAAAAZYMjAAAAAAAAgyMAAAAAAAABAAAAbIIjAAAAAAAAgiMAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAAhiMAAAAAAACGIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"insert",
+					{
+						"characters": "\tconys"
+					},
+					"BgAAAIIjAAAAAAAAgyMAAAAAAAAAAAAAgyMAAAAAAACEIwAAAAAAAAAAAACEIwAAAAAAAIUjAAAAAAAAAAAAAIUjAAAAAAAAhiMAAAAAAAAAAAAAhiMAAAAAAACHIwAAAAAAAAAAAACHIwAAAAAAAIgjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgiMAAAAAAACCIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIcjAAAAAAAAhyMAAAAAAAABAAAAc4YjAAAAAAAAhiMAAAAAAAABAAAAeQ",
+					"AQAAAAAAAAABAAAAiCMAAAAAAACIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAIYjAAAAAAAAhyMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhiMAAAAAAACGIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIYjAAAAAAAAhiMAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAhyMAAAAAAACHIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": "syt"
+					},
+					"AwAAAIYjAAAAAAAAhyMAAAAAAAAAAAAAhyMAAAAAAACIIwAAAAAAAAAAAACIIwAAAAAAAIkjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhiMAAAAAAACGIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIgjAAAAAAAAiCMAAAAAAAABAAAAdIcjAAAAAAAAhyMAAAAAAAABAAAAeQ",
+					"AQAAAAAAAAABAAAAiSMAAAAAAACJIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAAIcjAAAAAAAAiCMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhyMAAAAAAACHIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIcjAAAAAAAAhyMAAAAAAAABAAAAeQ",
+					"AQAAAAAAAAABAAAAiCMAAAAAAACIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAIcjAAAAAAAAiCMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhyMAAAAAAACHIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					1,
+					"insert",
+					{
+						"characters": "u"
+					},
+					"AgAAAKAjAAAAAAAAoSMAAAAAAAAAAAAAoSMAAAAAAAChIwAAAAAAABMAAABQMi5taW51cyhQMSkudW5pdCgp",
+					"AQAAAAAAAAABAAAAsyMAAAAAAACgIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					140,
+					1,
+					"insert",
+					{
+						"characters": "("
+					},
+					"AQAAAKUjAAAAAAAApiMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApSMAAAAAAAClIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					143,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAALIjAAAAAAAAsyMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsiMAAAAAAACyIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					150,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAALojAAAAAAAAuyMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuiMAAAAAAAC6IwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"insert",
+					{
+						"characters": "true"
+					},
+					"BQAAAMgjAAAAAAAAySMAAAAAAAAAAAAAySMAAAAAAADJIwAAAAAAAAwAAAAwIDwgYmV0YSA8IDHJIwAAAAAAAMojAAAAAAAAAAAAAMojAAAAAAAAyyMAAAAAAAAAAAAAyyMAAAAAAADMIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1CMAAAAAAADIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": "beta"
+					},
+					"BQAAAMgjAAAAAAAAySMAAAAAAAAAAAAAySMAAAAAAADJIwAAAAAAAAQAAAB0cnVlySMAAAAAAADKIwAAAAAAAAAAAADKIwAAAAAAAMsjAAAAAAAAAAAAAMsjAAAAAAAAzCMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzCMAAAAAAADIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					181,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAAMgjAAAAAAAAySMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyCMAAAAAAADIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					184,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAMkjAAAAAAAAyiMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAySMAAAAAAADJIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					186,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAAMgjAAAAAAAAySMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyCMAAAAAAADIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					187,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMkjAAAAAAAAyiMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAySMAAAAAAADJIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					189,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMwjAAAAAAAAzSMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzCMAAAAAAADMIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					191,
+					1,
+					"insert",
+					{
+						"characters": " <="
+					},
+					"AwAAANEjAAAAAAAA0iMAAAAAAAAAAAAA0iMAAAAAAADTIwAAAAAAAAAAAADTIwAAAAAAANQjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0SMAAAAAAADRIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					192,
+					1,
+					"insert",
+					{
+						"characters": " 1"
+					},
+					"AgAAANQjAAAAAAAA1SMAAAAAAAAAAAAA1SMAAAAAAADWIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1CMAAAAAAADUIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					195,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ4iAAAAAAAAniIAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAAnyIAAAAAAACfIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					196,
+					1,
+					"insert",
+					{
+						"characters": "Eps"
+					},
+					"AwAAAJ4iAAAAAAAAnyIAAAAAAAAAAAAAnyIAAAAAAACgIgAAAAAAAAAAAACgIgAAAAAAAKEiAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAniIAAAAAAACeIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					200,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAKEiAAAAAAAAoiIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoSIAAAAAAAChIgAAAAAAAAAAAAAAYHZA"
+				],
+				[
+					203,
+					1,
+					"insert_completion",
+					{
+						"completion": "EPSILON",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "EPSILON"
+					},
+					"AgAAAJ4iAAAAAAAAniIAAAAAAAAEAAAARXBzaZ4iAAAAAAAApSIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoiIAAAAAAACiIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					210,
+					7,
+					"left_delete",
+					null,
+					"BwAAAKQiAAAAAAAApCIAAAAAAAABAAAATqMiAAAAAAAAoyIAAAAAAAABAAAAT6IiAAAAAAAAoiIAAAAAAAABAAAATKEiAAAAAAAAoSIAAAAAAAABAAAASaAiAAAAAAAAoCIAAAAAAAABAAAAU58iAAAAAAAAnyIAAAAAAAABAAAAUJ4iAAAAAAAAniIAAAAAAAABAAAARQ",
+					"AQAAAAAAAAABAAAApSIAAAAAAAClIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					211,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAAJ4iAAAAAAAAnyIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAniIAAAAAAACeIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					214,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMgjAAAAAAAAyCMAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAAySMAAAAAAADJIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					215,
+					1,
+					"insert",
+					{
+						"characters": "Eps"
+					},
+					"AwAAAMgjAAAAAAAAySMAAAAAAAAAAAAAySMAAAAAAADKIwAAAAAAAAAAAADKIwAAAAAAAMsjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyCMAAAAAAADIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					216,
+					1,
+					"insert_completion",
+					{
+						"completion": "EPSILON",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "EPSILON"
+					},
+					"AgAAAMgjAAAAAAAAyCMAAAAAAAADAAAARXBzyCMAAAAAAADPIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyyMAAAAAAADLIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					219,
+					1,
+					"insert",
+					{
+						"characters": "-E"
+					},
+					"AgAAANwjAAAAAAAA3SMAAAAAAAAAAAAA3SMAAAAAAADeIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3CMAAAAAAADcIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					1,
+					"insert",
+					{
+						"characters": "PSI"
+					},
+					"AwAAAN4jAAAAAAAA3yMAAAAAAAAAAAAA3yMAAAAAAADgIwAAAAAAAAAAAADgIwAAAAAAAOEjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3iMAAAAAAADeIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					221,
+					1,
+					"insert",
+					{
+						"characters": "LON"
+					},
+					"AwAAAOEjAAAAAAAA4iMAAAAAAAAAAAAA4iMAAAAAAADjIwAAAAAAAAAAAADjIwAAAAAAAOQjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4SMAAAAAAADhIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					224,
+					1,
+					"left_delete",
+					null,
+					"AQAAANEjAAAAAAAA0SMAAAAAAAABAAAAPQ",
+					"AQAAAAAAAAABAAAA0iMAAAAAAADSIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					227,
+					1,
+					"left_delete",
+					null,
+					"AQAAANgjAAAAAAAA2CMAAAAAAAABAAAAPQ",
+					"AQAAAAAAAAABAAAA2SMAAAAAAADZIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					239,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AgAAAMgjAAAAAAAAySMAAAAAAAAAAAAAySMAAAAAAADJIwAAAAAAAAcAAABFUFNJTE9O",
+					"AQAAAAAAAAABAAAAzyMAAAAAAADIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					242,
+					1,
+					"left_delete",
+					null,
+					"AQAAANQjAAAAAAAA1CMAAAAAAAAIAAAALUVQU0lMT04",
+					"AQAAAAAAAAABAAAA3CMAAAAAAADUIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					245,
+					1,
+					"insert",
+					{
+						"characters": "true"
+					},
+					"BQAAAMgjAAAAAAAAySMAAAAAAAAAAAAAySMAAAAAAADJIwAAAAAAAAwAAAAwIDwgYmV0YSA8IDHJIwAAAAAAAMojAAAAAAAAAAAAAMojAAAAAAAAyyMAAAAAAAAAAAAAyyMAAAAAAADMIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1CMAAAAAAADIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					246,
+					4,
+					"left_delete",
+					null,
+					"BAAAAMsjAAAAAAAAyyMAAAAAAAABAAAAZcojAAAAAAAAyiMAAAAAAAABAAAAdckjAAAAAAAAySMAAAAAAAABAAAAcsgjAAAAAAAAyCMAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAzCMAAAAAAADMIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					247,
+					1,
+					"insert",
+					{
+						"characters": "EPS"
+					},
+					"AwAAAMgjAAAAAAAAySMAAAAAAAAAAAAAySMAAAAAAADKIwAAAAAAAAAAAADKIwAAAAAAAMsjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyCMAAAAAAADIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					248,
+					1,
+					"insert_completion",
+					{
+						"completion": "EPSILON",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "EPSILON"
+					},
+					"AgAAAMgjAAAAAAAAyCMAAAAAAAADAAAARVBTyCMAAAAAAADPIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyyMAAAAAAADLIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					249,
+					1,
+					"insert",
+					{
+						"characters": " <"
+					},
+					"AgAAAM8jAAAAAAAA0CMAAAAAAAAAAAAA0CMAAAAAAADRIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzyMAAAAAAADPIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					250,
+					1,
+					"insert",
+					{
+						"characters": " beta"
+					},
+					"BQAAANEjAAAAAAAA0iMAAAAAAAAAAAAA0iMAAAAAAADTIwAAAAAAAAAAAADTIwAAAAAAANQjAAAAAAAAAAAAANQjAAAAAAAA1SMAAAAAAAAAAAAA1SMAAAAAAADWIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0SMAAAAAAADRIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					251,
+					1,
+					"insert",
+					{
+						"characters": " <"
+					},
+					"AgAAANYjAAAAAAAA1yMAAAAAAAAAAAAA1yMAAAAAAADYIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1iMAAAAAAADWIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					252,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANgjAAAAAAAA2SMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2CMAAAAAAADYIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					253,
+					1,
+					"insert",
+					{
+						"characters": "1-"
+					},
+					"AgAAANkjAAAAAAAA2iMAAAAAAAAAAAAA2iMAAAAAAADbIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2SMAAAAAAADZIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					254,
+					1,
+					"insert",
+					{
+						"characters": " E"
+					},
+					"AgAAANsjAAAAAAAA3CMAAAAAAAAAAAAA3CMAAAAAAADdIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2yMAAAAAAADbIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					255,
+					3,
+					"left_delete",
+					null,
+					"AwAAANwjAAAAAAAA3CMAAAAAAAABAAAARdsjAAAAAAAA2yMAAAAAAAABAAAAINojAAAAAAAA2iMAAAAAAAABAAAALQ",
+					"AQAAAAAAAAABAAAA3SMAAAAAAADdIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					256,
+					1,
+					"insert",
+					{
+						"characters": " EPSI"
+					},
+					"BQAAANojAAAAAAAA2yMAAAAAAAAAAAAA2yMAAAAAAADcIwAAAAAAAAAAAADcIwAAAAAAAN0jAAAAAAAAAAAAAN0jAAAAAAAA3iMAAAAAAAAAAAAA3iMAAAAAAADfIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2iMAAAAAAADaIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					257,
+					1,
+					"insert_completion",
+					{
+						"completion": "EPSILON",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "EPSILON"
+					},
+					"AgAAANsjAAAAAAAA2yMAAAAAAAAEAAAARVBTSdsjAAAAAAAA4iMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3yMAAAAAAADfIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					260,
+					1,
+					"insert",
+					{
+						"characters": " -"
+					},
+					"AgAAANojAAAAAAAA2yMAAAAAAAAAAAAA2yMAAAAAAADcIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2iMAAAAAAADaIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					263,
+					1,
+					"insert",
+					{
+						"characters": "!("
+					},
+					"AgAAAMgjAAAAAAAAySMAAAAAAAAAAAAAySMAAAAAAADKIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyCMAAAAAAADIIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					267,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAAOcjAAAAAAAA6CMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5yMAAAAAAADnIwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "walk-thru-it/walk-thru-it/geometry-2d.js",
+			"settings":
+			{
+				"buffer_size": 4895,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package setting",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"git status",
+				"Set Syntax: Git Attributes"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2022 Spring Semester/CSCI 385/Homework/graphics-program3",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2022 Spring Semester/CSCI 385/Homework/graphics-program3/walk-thru-it",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2022 Spring Semester/CSCI 385/Homework/graphics-program3/walk-thru-it/walk-thru-it"
+	],
+	"file_history":
+	[
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2022 Spring Semester/CSCI 385/Homework/graphics-program3/walk-thru.js",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2022 Spring Semester/CSCI 385/Homework/graphics-program3/walk-thru-it/walk-thru-it/cg-object.js",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2022 Spring Semester/CSCI 385/Homework/graphics-program3/walk-thru-it/walk-thru-it/geometry-2d.js",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Leetcode/Leetcode209.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/rotate.s",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/Vehicle.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/digitSequence.cc",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/bst.cc",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/makeDictQuery.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/matchNextPair.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/createBSTfromList.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/allPrereqs.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/turtle.cc",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/state.cc",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/filterSequence.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/bucketLines.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/listHasPairSum.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/numberOfBitsNotSet.s",
+		"/Users/zhu_yifang/Downloads/sum1to100.s",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/qual_2021_Oct/curry.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/hof.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/qual_2021_Oct/staircase.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/qual_2021_Oct/cs_PM_2.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/Qual exam/qual_2021_Oct/cs_AM_1.py",
+		"/Users/zhu_yifang/Downloads/splay-tree.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Fall Semester/CSCI 382/Learning_assignments/LA2/mergeSort.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Fall Semester/CSCI 382/Learning_assignments/LA2/quickSort.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Fall Semester/CSCI 382/Learning_assignments/LA2/HWQ4.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/Python Web 开发/文本.txt",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/Ch8_1.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/DFS.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/BFS.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/dijkstra.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/inversions.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/mergeSort.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/HeapSort1.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/HeapSort.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/MinIntHeap.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/算法 with Python/students.py",
+		"/Users/zhu_yifang/Downloads/a2677ba0c5cbb287bff585733feb22b9.torrent",
+		"/Users/zhu_yifang/.ShadowsocksX/gfwlist.js",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/公开课/Algorithms by Princeton/Homework/HelloWorld/src/HelloWorld.java",
+		"/Users/zhu_yifang/Downloads/Vot.svg",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/练习代码/Python-OOP/oop.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/练习代码/Python-OOP/# Python Object-Oriented Programming",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Project/crawler/test/testContextManager.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Project/crawler/test/testMultithreading.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project1/webserver.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Project/crawler/test/untitled",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/mp3.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Project/crawler/test/testUrllib.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Project/crawler/crawler.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Project/crawler/untitled.html",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Project/crawler/test.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Project/crawler/# coding = utf-8",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/HW6/DARPA.md",
+		"/Users/zhu_yifang/Downloads/The_Portable_Harlem_Renaissance__Yifang_Z_Daisy_text_only/The_Portable_Harlem_Renaissa.xml",
+		"/Users/zhu_yifang/Downloads/MP3/mp3.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/tester.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/receiver.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/sender.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/server.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/test.sh",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/test_data.txt",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/miniproject3/wire.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/miniproject3/utils.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/miniproject3/logging.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/Networks-Mini-Project-3/miniproject3/__init__.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/MP3/mp3.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/MP3/tester.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/MP3/server.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/MP3/sender.py",
+		"/Users/zhu_yifang/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project3/MP3/123.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project1/webclient.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project1/pingClient.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/HW2/396_HWK_2.tex",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project1/pingServer.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project1/TCPClient_v.py",
+		"/Users/zhu_yifang/Downloads/TCPServer_v.py",
+		"/Users/zhu_yifang/Downloads/TCPClient_v.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project1/UDPClient_v.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project1/TCPServer_v.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/Homework/MINI Project1/UDPServer_v.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/UDPserver.py",
+		"/Users/zhu_yifang/Library/Mobile Documents/com~apple~CloudDocs/Reed/2021 Spring Semester/CSCI396/UDPclinet.py",
+		"/Users/zhu_yifang/Downloads/LATEX文件.latex"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toPDF",
+			"projection",
+			"v0",
+			"get",
+			"combo",
+			"con",
+			"conbo",
+			"vertex",
+			"edge"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "walk-thru-it.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "walk-thru-it/walk-thru-it/walk-thru.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9178,
+								9178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "walk-thru-it/walk-thru-it/geometry-2d.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1744,
+								1744
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1298.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "walk-thru-it.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

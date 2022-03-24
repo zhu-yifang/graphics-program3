@@ -6,3 +6,4 @@ Goal: take a series of camera positions of a walk through some placed objects an
 modify the toPDF functionality
 
 This coding can be done fully within the file walk-thru.js.
+
